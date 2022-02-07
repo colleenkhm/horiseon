@@ -1,4 +1,18 @@
 # Code Refactor Starter Code
+#Horiseon
+
+## Purpose
+A website that offers business development services.
+
+## Built With
+* HTML
+* CSS
+
+## Website
+
+## Contribution
+Made with ❤️ by Horiseon
+
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
