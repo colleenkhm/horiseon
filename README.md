@@ -1,5 +1,4 @@
-# Code Refactor Starter Code
-#Horiseon
+# Horiseon
 
 ## Purpose
 A website that offers business development services.
