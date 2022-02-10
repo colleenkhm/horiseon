@@ -13,5 +13,7 @@ This website shows visitors how Horiseon can help their business through Search 
 ## Website
 https://colleenkhm.github.io/horiseon/
 
+<img src="./assets/images/horiseon-screenshot.png" />
+
 ## Contribution
 Made with ❤️ by Horiseon
