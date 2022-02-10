@@ -17,3 +17,5 @@ https://colleenkhm.github.io/horiseon/
 
 ## Contribution
 Made with ❤️ by Horiseon
+
+### ©️2019 Horiseon Social Solution Services, Inc.
