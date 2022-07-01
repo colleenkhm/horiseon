@@ -1,7 +1,7 @@
 # Horiseon
 
 ## Purpose
-A website that offers business development services.
+A website that showcases Horiseon's business development services to potential clients.
 
 ## Built With
 * HTML
